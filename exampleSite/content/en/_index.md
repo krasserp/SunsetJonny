@@ -10,7 +10,7 @@ header_logo: "images/sunsetIcon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Sunset Jonny"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+header_subheadline: "<b>Musician</b> Live & <b>Nature</b> Lover"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

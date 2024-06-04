@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 weight: 3
 header_menu: true
 ---
@@ -9,13 +9,19 @@ Neither embedded figure shortcode, nor Markdown hook were able to render image f
 You would have to .Resouces.GetMatch via custom shortcode.
 ![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
 -->
-![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
-See DE language for more examples of image management. There are multiple approaches.
+![Sunset Jonny](/images/sunsetjonnyTripplets.jpg) 
+Sunset Jonny got his one man band together in Gran Canaria, where the sun always shines.
 
-##### Professional Experience
+##### BIO
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Being introduced to music at an early age Sunset Jonny always was drawn to music.
+Early bands awoke good healing feeling of music when played in a group.
+Multiple Bands followed and tours across Europe and The UK. 
+
+The positive forc of creativity and music kept being ever present and encouraged Sunset Jonny to try and create a project to record all instruments himself for the love of learning and developing as a musician and a producer and sound engineer.
 
 ----
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+##### Resedency
+
+Now Sunset Jonny is the resident musician of [Sunset Studios](https://sunset-studios.one) where he tinkers on new material and colaborates with other musicians.

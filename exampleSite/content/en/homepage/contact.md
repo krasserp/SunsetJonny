@@ -6,4 +6,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Let us get in touch!
+Drop Phil a line to get in touch with Sunset Jonny!

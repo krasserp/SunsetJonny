@@ -110,6 +110,22 @@
                     <h2 class="post-title">{{ .Title | emojify | safeHTML }}</h2>
                 </header>
                 <section class="post-content">
+                  {{ if .Params.project_youTube }} 
+
+                  <div class="aspect-ratio">
+
+                     <iframe
+                      style="width:100%"
+                      class="youtube-videos"
+                      src="{{ .Params.project_youTube }} "
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      referrerpolicy="strict-origin-when-cross-origin"
+                      allowfullscreen
+                    ></iframe>
+                  </div>
+                    {{end}}
                     {{ .Content }}
                 </section>
             </article>

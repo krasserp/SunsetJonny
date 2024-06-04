@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "prettier --check . ",
-    "format": "prettier --write . "
+    "format": "prettier --write . ",
+    "dev": "hugo server -v --disableFastRender --ignoreCache --source=exampleSite --themesDir=../.."
   },
   "repository": {
     "type": "git",

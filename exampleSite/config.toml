@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://sunsetjonny.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,10 +9,10 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Sunset Jonny - Musician Live & Nature Lover"
 
 # In order to add version information in the page's footer set to true.
-# enableGitInfo = true
+# enableGitInfo = false
 
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
@@ -38,13 +38,13 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Sunset Jonny - Musician Live & Nature Lover"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Sunset Jonny - Musician Live & Nature Lover - Based in Gran Canaria, where the sun always shines"
 
     # Show a menu of languages available
-    language_menu = true
+    language_menu = false
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
@@ -52,7 +52,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© Sunset Jonny"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -63,24 +63,18 @@ enableEmoji = true
     
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
-
-    [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
+        keywords = "Sunset Jonny, Sunset Rock, Happy live, good live, feel good, feel good music, be present"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "phil@sunset-studios.one"
+        url = "mailto:phil@sunset-studios.one"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!

@@ -11,6 +11,23 @@
 
  */
 
+/** Third RAil Fonts **/
+@font-face {
+  font-family: 'Third-Rail';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('../fonts/Third-Rail.ttf.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/Third-Rail.ttf.woff') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Third-Rail.ttf.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/Third-Rail.eot?#iefix') format('embedded-opentype') , /* Safari, Android, iOS */
+       url('../fonts/Third-Rail.ttf.svg#Third-Rail') format('svg'), /* Legacy iOS */
+}
+
+/** end Third Rail Fonts **/
+
+
 /* ==========================================================================
    1. Open Sans
    ========================================================================== */

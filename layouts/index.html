@@ -51,8 +51,8 @@
 	</div>
 	{{ end }}
 
-        <div id="site-head-content" class="inner">
-	    {{ with resources.Get .Params.header_logo }}<img id="blog-logo" alt="" src="{{ .RelPermalink }}" />{{ end }}
+        <div id="site-head-content" class="inner" data-item="{{ .Params.header_logo }}">
+	    {{ if .Params.header_logo }}<img  data-item="wtf" id="blog-logo" alt="" src="{{ .Params.header_logo }}" />{{ end }}
 
             {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
               {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}

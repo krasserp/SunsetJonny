@@ -9,4 +9,4 @@ You will find some music and info about Sunset Jonny here. Let the good vibes of
 
 > It may turn out better than you could have hoped for. - SSJ
 
-We hope you like some of the music and to see you soon somewhere staring at a sunset and enjoying the moment.
+We hope you like the music and to see you soon somewhere staring at a sunset and enjoying the moment.

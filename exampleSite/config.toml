@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Sunset Jonny - Musician Live & Nature Lover"
+title = "Sunset Jonny - Musician Life & Nature Lover"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = false
@@ -38,10 +38,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Sunset Jonny - Musician Live & Nature Lover"
+    title = "Sunset Jonny - Musician Life & Nature Lover"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Sunset Jonny - Musician Live & Nature Lover - Based in Gran Canaria, where the sun always shines"
+    description = "Sunset Jonny - Musician Life & Nature Lover - Based in Gran Canaria, where the sun always shines"
 
     # Show a menu of languages available
     language_menu = false

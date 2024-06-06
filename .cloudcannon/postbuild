@@ -1,1 +1,1 @@
-cp -r ./exampleSite/assets/images/* ./public/images/   
+cp -r ./exampleSite/assets/images/* ./images/   

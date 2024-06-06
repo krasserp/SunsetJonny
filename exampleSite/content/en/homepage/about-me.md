@@ -15,7 +15,7 @@ Sunset Jonny got his one man band together in Gran Canaria, where the sun always
 ##### BIO
 
 Being introduced to music at an early age Sunset Jonny always was drawn to instruments.
-Early band expireinces grew the good vibes for music when played in a group.
+Early band experiences grew the good vibes for music when played in a group.
 Multiple Bands followed and tours across Europe and The UK in various forms as musician in various roles.
 
 The positive force of creativity and music kept being ever present and encouraged Sunset Jonny to try to write and record all at once by himself for the love of learning and developing as a musician and a producer and sound engineer.

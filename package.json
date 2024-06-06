@@ -7,7 +7,7 @@
   "scripts": {
     "test": "prettier --check . ",
     "format": "prettier --write . ",
-    "dev": "hugo server -v --disableFastRender --ignoreCache --source=exampleSite --themesDir=../.."
+    "dev": "hugo server -v --disableFastRender --ignoreCache --source=exampleSite --themesDir=../.. --theme=SunsetJonny"
   },
   "repository": {
     "type": "git",

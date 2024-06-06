@@ -6,4 +6,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Drop Phil a line to get in touch with Sunset Jonny!
+Drop Jonny a line to get in touch he'll likely reply after sunset!

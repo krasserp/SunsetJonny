@@ -4,7 +4,7 @@ header_menu_title: "Music"
 navigation_menu_title: "Music"
 weight: 2
 header_menu: true
-project_youTube: 'https://www.youtube.com/embed/yvwH03Gflw0?si=GrsRNpbM2gCg98gw'
+project_youTube: 'https://www.youtube.com/embed/em24r940Q78?si=uTP9lh4QJQJJikts'
 ---
 
 Continously in the making but the year 2024 seems to be the year of the first EP release.

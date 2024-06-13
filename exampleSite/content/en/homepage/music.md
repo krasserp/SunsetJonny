@@ -7,13 +7,16 @@ header_menu: true
 project_youTube: 'https://www.youtube.com/embed/em24r940Q78?si=uTP9lh4QJQJJikts'
 ---
 
-Continously in the making but the year 2024 seems to be the year of the first EP release.
+Continously in the making, and finally the year 2024 will be the year of the first EP release.
 
 Exact dates TBA.
 
 
-Another 3 songs are recored and in the process of being mixed and mastered.
-One or two more and the EP will be released.
+Currently 3 songs are recored and in the process of being mixed and mastered.
+Exciting times! Soon the EP will be released.
+
+Sign up to the newsletter to get the latest info on releases and tour dates.{{<icon class="fa fa-envelope">}}
+{{<newsletter_form>}}
 
 ---
 

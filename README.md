@@ -1,4 +1,4 @@
-<h1 align=center>Hugo Scroll 📜 <a href="https://zjedi.github.io/hugo-scroll/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Adaptation of Hugo Scroll 📜 <a href="https://zjedi.github.io/hugo-scroll/" rel="nofollow">Demo</a></h1>
 
 Clean, responsive, single-page [Hugo](https://gohugo.io/) website theme.
 
@@ -8,8 +8,7 @@ Clean, responsive, single-page [Hugo](https://gohugo.io/) website theme.
 [![GitHub](https://img.shields.io/github/license/zjedi/hugo-scroll)](https://github.com/zjedi/hugo-scroll/blob/master/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/zjedi/hugo-scroll)
 
-Promo image which may be a bit outdated:<br/>
-![Screenshot Hugo Scroll Theme](https://raw.githubusercontent.com/zjedi/hugo-scroll/master/images/tn.png)
+
 
 ## ⭐ Feature highlights
 
@@ -30,9 +29,7 @@ into single file)
 You need to install Hugo extended version.
 If you already have a Hugo site on your machine, you can simply add this theme via
 
-```cli
-git submodule add https://github.com/zjedi/hugo-scroll.git themes/hugo-scroll
-```
+
 
 Then, adjust the `config.toml` as detailed below & in the file comments.
 

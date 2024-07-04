@@ -10,19 +10,16 @@ You would have to .Resouces.GetMatch via custom shortcode.
 ![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
 -->
 ![Sunset Jonny](/images/sunsetjonnyTripplets.jpg) 
-Sunset Jonny got his one man band together in Gran Canaria, also known as 'me, myself and I'.
+Sunset Jonny and his one man band, also known as 'me, myself and I', living on a sunny Island.
 
 ##### BIO
 
-Being introduced to music at an early age, Sunset Jonny always was drawn to instruments.
-Early band experiences convinced to pursure a life of good vibes and playing in a group.
-Multiple Bands followed, tours across Europe and the UK in various forms as a musician in various roles.
+Introduced to music at an early age, Sunset Jonny was always drawn to instruments. His early band experiences convinced him to pursue a life of good vibes and playing in a group. This led to multiple bands and tours across Europe and the UK, where he performed in various roles.
 
-The positive force of creativity and music was always present and encouraged Sunset Jonny to try to write and record all at once by himself for the love of learning and developing as a musician, sound engineer and producer.
+The positive force of creativity and music has always been present in Sunset Jonny’s life. This inspired him to write and record his own music, driven by a love for learning and developing as a musician, sound engineer, and producer.
 
-The always happy guy who enjoys life and learning. Learning to write, record, mix, video edit. Etc. 
-Mother nature provides plenty of engery and inspiration. 
-Sunset Jonnys aim is to learn and get better at what he does plus spread good vibes along the way whilst doing so. 
+Known for his cheerful upbeat personality, Sunset Jonny embraces life and the joy of learning. Always honing in his skills in writing, recording, mixing, and video editing, continually seeking inspiration from Mother Nature. His aim is to keep improving his craft and spreading good vibes along the way.
+
 
 
 ----

@@ -7,7 +7,7 @@ header_menu: true
 project_youTube: 'https://www.youtube.com/embed/em24r940Q78?si=uTP9lh4QJQJJikts'
 ---
 
-Continously in the making, and finally the year 2024 will be the year of the first EP release.
+Continously in the making, and finally the year 2025 will be the year of the first EP release.
 
 Exact dates TBA.
 

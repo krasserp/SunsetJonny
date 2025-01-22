@@ -73,8 +73,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "sunset-jonny@sunset-studios.es "
-        url = "mailto:sunset-jonny@sunset-studios.es "
+        value = "jonny@sunset-studios.one"
+        url = "mailto:jonny@sunset-studios.one"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!

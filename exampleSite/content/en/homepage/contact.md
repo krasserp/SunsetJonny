@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-{{<contact_form>}}
+jonny@sunset-studios.one
 
 
 Drop Jonny a line to get in touch he'll likely reply after sunset!

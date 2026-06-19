@@ -16,7 +16,7 @@ Currently 3 songs are recored and in the process of being mixed and mastered.
 Exciting times! Soon the EP will be released.
 
 Sign up to the newsletter {{<icon class="fa fa-envelope">}} to get the latest info on releases and tour dates.
-{{<newsletter_form>}}
+mail @ jonny@sunset-studios.one
 
 ---
 
